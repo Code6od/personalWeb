@@ -155,7 +155,7 @@ header a {
 }
 
 header a:hover {
-        color: #ffd700; /* Gold on hover */
+        color: #ffd700; 
 }
 
 section {
@@ -169,7 +169,7 @@ section {
 
 #about,
 #contact {
-    background-color: #34495e; /* Darker background color */
+    background-color: #34495e; /* Darker background colr */
 }
 
 #portfolio {
